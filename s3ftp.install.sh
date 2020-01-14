@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-S3BUCKETNAME=ca-s3fs-bucket
-S3BUCKETREGION=us-west-2
+S3BUCKETNAME=trainingids
+S3BUCKETREGION=ap-south-1
 FTPUSERNAME=ftpuser1
-FTPPASSWORD=password
+FTPPASSWORD=algorith
 
 # =========================
 
