@@ -3,7 +3,7 @@
 S3BUCKETNAME=trainingids
 S3BUCKETREGION=ap-south-1
 FTPUSERNAME=ftpuser1
-FTPPASSWORD=algorith
+FTPPASSWORD=algorithm
 
 # =========================
 
